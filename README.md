@@ -1,2 +1,2 @@
-# NLP
-All NLP projects avialable
+# NLP projects
+All NLP projects available
